@@ -50,7 +50,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   MFC(C++)로 프로그래밍을 시작했습니다.  
   Node(JS)를 사용하여 2개의 프로젝트 리딩 했습니다.  
