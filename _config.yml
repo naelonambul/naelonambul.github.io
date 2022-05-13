@@ -153,7 +153,7 @@ content:
     layout: list
     content:
       - layout: text
-        sub_title: 호서대학교(화학공학과 공학사), 정보처리기사(2019), TOEIC(850)
+        sub_title: 정보처리기사(2019), TOEIC(850), 호서대학교(화학공학과 공학사)
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
