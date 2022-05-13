@@ -142,8 +142,6 @@ content:
         title: ILIT 전문가 과정 2기
         sub_title: 보안 소프트웨어 개발자 양성 과정
         caption: 2018-2019
-        quote: >
-          보안 솔루션 개발자 양성 코스
         description: | # this will include new lines to allow paragraphs
           - CS 전반 기술
           - MFC & System 개발
@@ -152,8 +150,8 @@ content:
   - title: Certificate
     layout: list
     content:
-      - layout: text
-        sub_title: 정보처리기사(2019), TOEIC(850), 호서대학교(화학공학과 공학사)
+      - layout: center
+        description: 정보처리기사(2019), TOEIC(850), 호서대학교(화학공학과 공학사)
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
