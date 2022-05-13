@@ -13,7 +13,7 @@ email: Kyounghoe.cho@gmail.com
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
 website: https://naelonambul.tistory.com/
-# website_title: Web (Website title override)
+website_title: 블로그
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -35,7 +35,7 @@ github_username:  naelonambul
 
 # Additional icon links
 additional_links:
-- title: Tistory
+- title: 블로그
   icon: fab fa-safari (eg. fab fa-t) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
   url: https://naelonambul.tistory.com/
 # - title: another link
