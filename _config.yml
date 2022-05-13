@@ -144,7 +144,7 @@ content:
           - CS 전반 기술
           - MFC & System 개발
           - TCP/IP 소켓 프로그래밍
-          - 기초 웹기술 (Nodejs + mariaDb)
+          - 기초 웹기술 (Nginx + Nodejs + mariaDb)
       - layout: top-right
         title: 호서대학교
         sub_title: 화학공학과 (공학사 졸업)
