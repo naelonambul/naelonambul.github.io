@@ -104,7 +104,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 사이버보안 빅데이터 플랫폼 개발
+        title: KISA 사이버보안 빅데이터 플랫폼 개발
         quote: >
           관련 빅 데이터, 교육 자료 플랫폼을 개발 
         description: | # this will include new lines to allow paragraphs
