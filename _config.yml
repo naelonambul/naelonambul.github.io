@@ -149,15 +149,11 @@ content:
           - MFC & System 개발
           - TCP/IP 소켓 프로그래밍
           - 기초 웹기술 (Nginx + Nodejs + mariaDb)
-      - layout: top-right
-        title: 호서대학교
-        sub_title: 화학공학과 (공학사 졸업)
-        caption: 2008-2015
   - title: Certificate
     layout: list
     content:
       - layout: text
-        sub_title: 정보처리기사(2019), TOEIC(850)
+        sub_title: 호서대학교(화학공학과 공학사), 정보처리기사(2019), TOEIC(850)
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
