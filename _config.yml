@@ -149,7 +149,15 @@ content:
         title: 호서대학교
         sub_title: 화학공학과 (공학사 졸업)
         caption: 2008-2015
-
+    - title: Certificate
+    layout: list
+    content:
+        - layout: top-right
+        title: 정보처리기사
+        caption: 2019 - 2019
+        - layout: top-right
+        title: 토익(850)
+        caption: 2019 - 2019
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
