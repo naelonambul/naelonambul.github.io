@@ -73,7 +73,11 @@ content:
                       # other value (or no value) means no border will be displayed
         title: 토이 프로젝트
         link: https://github.com/naelonambul/RBV-SEV
-        link_text: https://github.com/naelonambul/RBV-SEV
+        link_text: 링크
+        additional_links:
+          - title: https://github.com/naelonambul/RBV-SEV
+            icon: fab fa-github
+            url: https://github.com/naelonambul/RBV-SEV
         quote: >
           공유 가계부 개발
         description: | # this will include new lines to allow paragraphs
@@ -95,6 +99,10 @@ content:
         title: K사 외식 품질관리 플랫폼 개발
         link: https://github.com/naelonambul/ReadmeS/tree/main/K-PROJECT
         link_text: 관련 서류
+        additional_links:
+          - title: 관련 서류
+            icon: fab fa-github
+            url: https://github.com/naelonambul/ReadmeS/tree/main/K-PROJECT
         quote: >
           외식 가맹점의 품질관리를 위한 웹, 앱 개발 
         description: | # this will include new lines to allow paragraphs
@@ -117,6 +125,10 @@ content:
         title: 랜섬웨어 복구도구 검증 소프트웨어 개발 프로젝트
         link: https://github.com/naelonambul/ReadmeS/tree/main/%EB%9E%9C%EC%84%AC%EC%9B%A8%EC%96%B4%20%EB%B3%B5%EA%B5%AC%20%EB%8F%84%EA%B5%AC%20%EA%B2%80%EC%A6%9D%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4
         link_text: 관련 서류
+        additional_links:
+          - title: 관련 서류
+            icon: fab fa-github
+            url: https://github.com/naelonambul/ReadmeS/tree/main/%EB%9E%9C%EC%84%AC%EC%9B%A8%EC%96%B4%20%EB%B3%B5%EA%B5%AC%20%EB%8F%84%EA%B5%AC%20%EA%B2%80%EC%A6%9D%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4
         quote: >
           가상 머신에 각기 다른 운영체제를 설치 랜섬웨어 감염전과 감염후의 파일을 검증하는 소프트웨어
         description: | # this will include new lines to allow paragraphs
