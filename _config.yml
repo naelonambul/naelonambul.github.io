@@ -94,10 +94,6 @@ content:
         caption: 2020.09 - 2020.10
         link: https://www.privacy.go.kr/per/iass/info/evalInfo.do
         link_text: 관련 링크
-        additional_links:
-          - title: 관련 링크
-            icon: fab fa-safari
-            url: https://www.privacy.go.kr/per/iass/info/evalInfo.do
         quote: >
           문제 제출 환경 조성  
         description: | # this will include new lines to allow paragraphs
