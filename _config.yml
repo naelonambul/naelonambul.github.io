@@ -90,7 +90,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 개인정보 영향평가 전문인력 양성 및 제도운영지원 사업
-        sub_title: 아이엘아이티 행사 담당 부서(지원 업무)
+        sub_title: 아이엘아이티 - 행사 담당 부서(지원 업무)
         caption: 2020.09 - 2020.10
         link: https://www.privacy.go.kr/per/iass/info/evalInfo.do
         link_text: 관련 링크
@@ -105,7 +105,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: KPC 외식 품질관리 시범 사업 플랫폼 개발
-        sub_title: 아이엘아이티 응용 소프트웨어 2팀 (개발 2명, 디자이너 2명, 기획 1명)
+        sub_title: 아이엘아이티 - 응용 소프트웨어 2팀 (개발 2명, 디자이너 2명, 기획 1명)
         caption: 2019.12 - 2020.10
         link: https://github.com/naelonambul/ReadmeS/tree/main/K-PROJECT
         link_text: 관련 서류
