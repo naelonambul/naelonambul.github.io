@@ -86,7 +86,7 @@ content:
           APP(Flutter), WEB(React), BACK(Spring)-백엔드및 DB설계 담당
            - Spring Data Jpa + queryDsl 사용
            - Spring Security + Oauth2 사용
-        - layout: left
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 인디 게임
