@@ -84,8 +84,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           기존의 가계부 기능 + 공유기능을 추가하여 쉽게 수입, 지출 상황을 공유, 관리할수 있는 기능을 제공.  
           APP(Flutter), WEB(React), BACK(Spring)-백엔드및 DB설계 담당
-           - Spring Data Jpa + queryDsl 사용.
-           - Spring Security + Oauth2 사용.
+           - Spring Data Jpa + queryDsl 사용
+           - Spring Security + Oauth2 사용
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -98,9 +98,9 @@ content:
           문제 제출 환경 조성  
         description: | # this will include new lines to allow paragraphs
           - Windows RDP, HiperV 기반 원격 문제 제출 환경 구성
-          - 코로나로 인한 비대면 문제 출제 환경 구성.
-          - Window Server HiperV VM 구축(20명 내외).
-          - 각 출제자 들에게 RDP-config 파일 구성 배포. 
+          - 코로나로 인한 비대면 문제 출제 환경 구성
+          - Window Server HiperV VM 구축(20명 내외)
+          - 각 출제자 들에게 RDP-config 파일 구성 배포
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -121,7 +121,7 @@ content:
           - React(웹) - 기업, 통합 관리자 웹페이지 (평가 자료 통계, 매출 정산, 전반적인 관리 기능 플랫폼  )
           - React-native([ios](https://apps.apple.com/kr/app/k-smart/id1532001148), [android](https://apkpure.com/k-smart-fc-platform/com.kpc.ksmart/)) - 품질관리 슈퍼바이저, 가맹점 점주 애플리케이션(품질 평가,매출 입력, 소통 플랫폼 )
           - Nginx,Nodejs,mariaDb(백엔드) - SSL적용, jwt 기반 인증&인가 구현
-          - docker-compose 네이버 클라우드 플랫폼 기반 백엔드 서버. 
+          - docker-compose 네이버 클라우드 플랫폼 기반 백엔드 서버 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -131,7 +131,7 @@ content:
         quote: >
           관련 빅 데이터, 교육 자료 (내부, 외부)플랫폼을 개발  
         description: | # this will include new lines to allow paragraphs
-           - 내부 관리자 플랫폼 담당.
+           - 내부 관리자 플랫폼 담당
            - Vue(웹) - 관리자 담당 플렛폼(외부 교육생, 방문자 관리 및 외부 가상화 연동 플랫폼)
            - Nginx, Nodejs, mariaDb(백엔드) - 외부 api 서버 회원 연동, jwt 기반 인증&인가 구현
            - 외부 가상환경 연동(리눅스, 윈도우) - 교육생을 위한 개발 라이브러리 설치 운영체제 이미지 제작(Win,Linux)
@@ -151,9 +151,9 @@ content:
           가상 머신에 각기 다른 운영체제를 설치 랜섬웨어 감염전과 감염후의 파일을 검증하는 소프트웨어  
         description: | # this will include new lines to allow paragraphs
           - MFC&TCP/IP 기술 사용.
-          - VirtualBox 가상환경 구현 & 스냅샷 기능 사용.
-          - 멀티 스레드 서버, 에이전트 환경 설계 & 구현.
-          - 파일 입출력 및 검증 기능.
+          - VirtualBox 가상환경 구현 & 스냅샷 기능 사용
+          - 멀티 스레드 서버, 에이전트 환경 설계 & 구현
+          - 파일 입출력 및 검증 기능
   - title: Experience
     layout: list
     content:
