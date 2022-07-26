@@ -53,10 +53,10 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   백엔드 개발자 조경호입니다. MFC(C++)로 프로그래밍을 시작했습니다.  
-  Node(JS), ReactNative(JS), Docker(compose), 네이버 클라우드 플랫폼 등을 사용하여 최근 프로젝트를 완료하였습니다.
+  Node(JS), ReactNative(JS), Docker(compose), 네이버 클라우드 플랫폼 등을 사용하여 최근 프로젝트를 완료하였습니다.  
   최근에는 Spring Data Jpa, queryDsl 사용한 토이프로젝트를 진행중입니다.
     
-  주어진 상황과 환경에 맞춰 최선의 기술을 선택하는 업무를 했습니다.
+  주어진 상황과 환경에 맞춰 최선의 기술을 선택하는 업무를 했습니다.  
   항상 배우는 자세로 자기 개발에 임하여 최고의 성과를 내기 위한 인재가 되겠습니다.  
 
   - Spring(SpringBoot, Jpa, queryDsl) = 초급
