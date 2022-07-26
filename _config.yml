@@ -52,13 +52,13 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  MFC(C++)로 프로그래밍을 시작했습니다.  
-  Node(JS)를 사용하여 2개의 프로젝트 리딩 했습니다.  
-  ReactNative(JS), Docker(compose), 네이버 클라우드 플랫폼 등을 사용하여 최근 프로젝트를 완료하였습니다.  
-  주어진 상황과 환경에 맞춰 최선의 기술을 선택하는 업무를 했습니다.  
-  이제 새로운 일을 할 준비가 되었습니다. 항상 배우는 자세로 일하고 있습니다.  
-
+  백엔드 개발자 조경호입니다. MFC(C++)로 프로그래밍을 시작했습니다.  
+  Node(JS), ReactNative(JS), Docker(compose), 네이버 클라우드 플랫폼 등을 사용하여 최근 프로젝트를 완료하였습니다.
   최근에는 Spring Data Jpa, queryDsl 사용한 토이프로젝트를 진행중입니다.
+    
+  주어진 상황과 환경에 맞춰 최선의 기술을 선택하는 업무를 했습니다.
+  항상 배우는 자세로 자기 개발에 임하여 최고의 성과를 내기 위한 인재가 되겠습니다.  
+
   - Spring(SpringBoot, Jpa, queryDsl) = 초급
   - Nodejs(Nestjs, Express) = 중급
   - React(React, ReactNative) = 초급
@@ -86,6 +86,26 @@ content:
           APP(Flutter), WEB(React), BACK(Spring)-백엔드및 DB설계 담당
            - Spring Data Jpa + queryDsl 사용
            - Spring Security + Oauth2 사용
+        - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: 인디 게임
+        caption: 2021 ~ 2021
+        sub_title: DragonHeart - 지원 업무
+        additional_links:
+          - title: https://play.google.com/store/apps/details?id=com.studiopurple.projectd&hl=ko&gl=US
+            icon: fab fa-github
+            url: https://play.google.com/store/apps/details?id=com.studiopurple.projectd&hl=ko&gl=US
+          - title: https://play.google.com/store/apps/details?id=com.dragonheart.spearknighrpg&hl=ko&gl=US
+            icon: fab fa-github
+            url: https://play.google.com/store/apps/details?id=com.dragonheart.spearknighrpg&hl=ko&gl=US
+        quote: >
+          (드래곤 슬레이어 키우기 & 창술사 키우기) QA 및 테스터 -파트타임
+        description: | # this will include new lines to allow paragraphs
+          - UI&UX 버그 리포트
+          - 테스트 과정 자동화(녹스)
+          - DB 와 동기화 체크
+          - 출시, 정검 기간 집중 테스트 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
