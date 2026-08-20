@@ -209,13 +209,13 @@ content:
             url: https://github.com/naelonambul/CompleteProject
         description: | # this will include new lines to allow paragraphs
           프로젝트 & 교육과정
-          - **2018.10** Address Book — C, Linked List, File I/O, Function Pointer 기반 콘솔 프로그램
-          - **2018.11** Expression Tree Calculator — Binary Tree, Stack, Parser를 활용한 자료구조 응용
-          - **2018.12** Mouse Drag Interaction — C++/MFC, Windows Message 기반 GUI 이벤트 처리
-          - **2019.01** Sort Visualization — MFC/GDI, Worker Thread를 활용한 GUI 시각화·멀티스레딩
-          - **2019.02.15** MiniPPT — C++/MFC, TCP/IP Client/Server 기반 네트워크 드로잉·채팅
-          - **2019.02.19** CMyVector — 동적 메모리, 복사·이동 의미론, 연산자 오버로딩 직접 구현
           - **2019.02.20** Drag & Drop File Hash — Windows API, 파일 처리, SHA-1 해시 계산
+          - **2019.02.19** CMyVector — 동적 메모리, 복사·이동 의미론, 연산자 오버로딩 직접 구현
+          - **2019.02.15** MiniPPT — C++/MFC, TCP/IP Client/Server 기반 네트워크 드로잉·채팅
+          - **2019.01** Sort Visualization — MFC/GDI, Worker Thread를 활용한 GUI 시각화·멀티스레딩
+          - **2018.12** Mouse Drag Interaction — C++/MFC, Windows Message 기반 GUI 이벤트 처리
+          - **2018.11** Expression Tree Calculator — Binary Tree, Stack, Parser를 활용한 자료구조 응용
+          - **2018.10** Address Book — C, Linked List, File I/O, Function Pointer 기반 콘솔 프로그램
 
           **학습 흐름:** C 기초·자료구조 → C++/MFC·Windows GUI → 멀티스레딩·TCP/IP·시스템 API 순으로 심화
   - title: Certificate
