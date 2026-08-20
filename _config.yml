@@ -209,13 +209,13 @@ content:
             url: https://github.com/naelonambul/CompleteProject
         description: | # this will include new lines to allow paragraphs
           프로젝트 & 교육과정
-          - MFC 기반 공유 그림판 (기간 1개월)
-          - 함수 테이블 기반 CLI 계산기 프로그램 (기간 1개월)  
-          - C++ 언어
-          - CS 및 네트워크 기초
-          - MFC & System 개발
-          - TCP/IP 소켓 프로그래밍
-          - 기초 웹기술 (Nginx + Nodejs + mariaDb)
+          - MiniPPT — C++/MFC, TCP/IP 기반 네트워크 드로잉·채팅 프로그램
+          - Expression Tree Calculator — C, Binary Tree, Stack 기반 수식 파싱·계산기
+          - CMyVector — 동적 메모리, 복사·이동 생성자, 연산자 오버로딩 직접 구현
+          - Sort Visualization — MFC/GDI, Worker Thread 기반 Bubble Sort 시각화
+          - Drag & Drop File Hash — Windows API, SHA-1 기반 파일 해시 계산
+          - Address Book — Linked List, File I/O, Function Pointer 기반 콘솔 주소록
+          - C/C++ 자료구조, MFC/Windows GUI, TCP/IP 소켓 프로그래밍 중심 학습
   - title: Certificate
     layout: list
     content:
