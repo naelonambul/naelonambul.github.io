@@ -168,12 +168,12 @@ content:
         title: 랜섬웨어 복구도구 검증 소프트웨어 개발 프로젝트
         sub_title: ILIT 전문가 과정 2기 (1인)
         caption: 2019.02-2019.05
-        link: https://github.com/naelonambul/ReadmeS/tree/main/%EB%9E%9C%EC%84%AC%EC%9B%A8%EC%96%B4%20%EB%B3%B5%EA%B5%AC%20%EB%8F%84%EA%B5%AC%20%EA%B2%80%EC%A6%9D%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4
-        link_text: 관련 서류
+        link: https://github.com/naelonambul/RecoveryValidationSystem
+        link_text: GitHub
         additional_links:
-          - title: 관련 서류
+          - title: GitHub
             icon: fab fa-github
-            url: https://github.com/naelonambul/ReadmeS/tree/main/%EB%9E%9C%EC%84%AC%EC%9B%A8%EC%96%B4%20%EB%B3%B5%EA%B5%AC%20%EB%8F%84%EA%B5%AC%20%EA%B2%80%EC%A6%9D%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4
+            url: https://github.com/naelonambul/RecoveryValidationSystem
         quote: >
           가상 머신에 각기 다른 운영체제를 설치 랜섬웨어 감염전과 감염후의 파일을 검증하는 소프트웨어  
         description: | # this will include new lines to allow paragraphs
@@ -203,7 +203,6 @@ content:
         caption: 2018.10-2019.05
         description: | # this will include new lines to allow paragraphs
           프로젝트 & 교육과정
-          - [Recovery Tool Validation System](https://github.com/naelonambul/RecoveryValidationSystem) - C++/MFC, Winsock, VirtualBox 기반 복구 도구 검증 자동화 (기간 3개월)
           - MFC 기반 공유 그림판 (기간 1개월)
           - 함수 테이블 기반 CLI 계산기 프로그램 (기간 1개월)  
           - C++ 언어
