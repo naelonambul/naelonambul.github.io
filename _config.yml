@@ -201,6 +201,12 @@ content:
         title: ILIT 전문가 과정 2기
         sub_title: 보안 소프트웨어 개발자 양성 과정
         caption: 2018.10-2019.05
+        link: https://github.com/naelonambul/CompleteProject
+        link_text: GitHub
+        additional_links:
+          - title: GitHub
+            icon: fab fa-github
+            url: https://github.com/naelonambul/CompleteProject
         description: | # this will include new lines to allow paragraphs
           프로젝트 & 교육과정
           - MFC 기반 공유 그림판 (기간 1개월)
