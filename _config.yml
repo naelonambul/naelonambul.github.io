@@ -203,7 +203,7 @@ content:
         caption: 2018.10-2019.05
         description: | # this will include new lines to allow paragraphs
           프로젝트 & 교육과정
-          - 랜섬웨어 복구도구 검증 소프트웨어 개발 (기간 3개월)
+          - [Recovery Tool Validation System](https://github.com/naelonambul/RecoveryValidationSystem) - C++/MFC, Winsock, VirtualBox 기반 복구 도구 검증 자동화 (기간 3개월)
           - MFC 기반 공유 그림판 (기간 1개월)
           - 함수 테이블 기반 CLI 계산기 프로그램 (기간 1개월)  
           - C++ 언어
@@ -221,7 +221,7 @@ footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# theme: modern-resume-theme (Use this if you are hosting your resume yourself)
 # remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
