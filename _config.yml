@@ -39,7 +39,7 @@ additional_links:
   icon: fab fa-safari (eg. fab fa-t) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
   url: https://naelonambul.tistory.com/
 # - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter)
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
@@ -76,7 +76,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
         title: 토이 프로젝트
         caption: 2022.05 ~ 현재
         link: https://github.com/naelonambul/RBV-SEV
@@ -93,7 +94,8 @@ content:
            - Spring Data Jpa + queryDsl 사용
            - Spring Security + Oauth2 사용
       - layout: left
-        border: weak
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
         title: 인디 게임
         caption: 2021 ~ 2021
         sub_title: DragonHeart - 지원 업무
@@ -112,7 +114,8 @@ content:
           - DB 와 동기화 체크
           - 출시, 정검 기간 집중 테스트 
       - layout: left
-        border: weak
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
         title: 개인정보 영향평가 전문인력 양성 및 제도운영지원 사업
         sub_title: 아이엘아이티 - 행사 담당 부서(지원 업무)
         caption: 2020.09 - 2020.10
@@ -126,7 +129,8 @@ content:
           - Window Server HiperV VM 구축(20명 내외)
           - 각 출제자 들에게 RDP-config 파일 구성 배포
       - layout: left
-        border: weak
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
         title: KPC 외식 품질관리 시범 사업 플랫폼 개발
         sub_title: 아이엘아이티 - 응용 소프트웨어 2팀 (개발 2명, 디자이너 2명, 기획 1명)
         caption: 2019.12 - 2020.10
@@ -146,7 +150,8 @@ content:
           - Nginx,Nodejs,mariaDb(백엔드) - SSL적용, jwt 기반 인증&인가 구현
           - docker-compose 네이버 클라우드 플랫폼 기반 백엔드 서버 
       - layout: left
-        border: weak
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
         title: KISA 사이버보안 빅데이터 플랫폼 개발
         sub_title: 아이엘아이티 - 응용 소프트웨어 1팀(개발 2명)
         caption: 2019.05 - 2020.04
@@ -158,7 +163,8 @@ content:
            - Nginx, Nodejs, mariaDb(백엔드) - 외부 api 서버 회원 연동, jwt 기반 인증&인가 구현
            - 외부 가상환경 연동(리눅스, 윈도우) - 교육생을 위한 개발 라이브러리 설치 운영체제 이미지 제작(Win,Linux)
       - layout: left
-        border: weak
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
         title: 랜섬웨어 복구도구 검증 소프트웨어 개발 프로젝트
         sub_title: ILIT 전문가 과정 2기 (1인)
         caption: 2019.02-2019.05
